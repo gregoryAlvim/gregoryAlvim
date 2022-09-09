@@ -1,10 +1,12 @@
-### Oi, aqui quem fala é o Grégory Alvim. Tudo certo?
+### Olá, eu sou o Grégory Alvim. Tudo certo?
 ##
 
-▪ Me desenvolvendo atualmente com o Explorer, Full-Stack Web Developer Program fornecido pela Rocketseat. 
-▪ Me aprimorando cada vez mais em tecnologias como JavaScript, React e Node 💛🚀
-▪ Acompanhe meus projetos no github ⤸
-✨【 https://github.com/gregoryAlvim 】✨
+▪ Me desenvolvendo atualmente com o Explorer, Full-Stack Web Developer Program fornecido pela Rocketseat. <br />
+▪ Me aprimorando cada vez mais em tecnologias como JavaScript, React e Node 💛🚀 <br />
+▪ Me acompanhe no Linkedin ⤸ <br />
+✨【 https://www.linkedin.com/in/gr%C3%A9gory-alvim/ 】✨
+
+##
 
 <div>
   <a href="https://github.com/DioneDev">
