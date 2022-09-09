@@ -9,8 +9,6 @@
   ✨【 https://www.linkedin.com/in/gr%C3%A9gory-alvim/ 】✨
 </div>
 
-<br />
-
 ## GitHub Stats
 
 <div>
@@ -19,24 +17,16 @@
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryAlvim&layout=compact&langs_count=7&theme=react"/>
 </div>
-  
-<!--   
-  Configs
-  https://github.com/anuraghazra/github-readme-stats
--->
-<br />
 
 ## Languages and Tools
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Greg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Greg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Greg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Greg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Greg-Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">  
 </div>
-
-<br />
   
 ## Contact
   
@@ -52,7 +42,6 @@
   <a href="https://instagram.com/gregori_alvim" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  
 </div>
 
 <!-- 
@@ -63,5 +52,10 @@
   <img align="center" alt="Greg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Greg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Greg-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+-->
+
+<!--   
+  Configs
+  https://github.com/anuraghazra/github-readme-stats
 -->
   
