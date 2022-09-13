@@ -6,7 +6,7 @@
   ▪ Me desenvolvendo atualmente com o Explorer, Full-Stack Web Developer Program fornecido pela Rocketseat. <br />
   ▪ Me aprimorando cada vez mais em tecnologias como JavaScript, React e Node 💛🚀 <br />
   ▪ Me acompanhe no Linkedin ⤸ <br />
-  ✨【 https://www.linkedin.com/in/gr%C3%A9gory-alvim/ 】✨
+  ✨【 https://www.linkedin.com/in/gregoryalvim/ 】✨
 </div>
 
 ## GitHub Stats
