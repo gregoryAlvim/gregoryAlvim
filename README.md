@@ -10,7 +10,7 @@
 </div>
 
 ## GitHub Stats
-<!--  &include_all_commits=true&count_private=true -->
+<!--   &include_all_commits=true&count_private=true -->
 <div>
   <a href="https://github.com/gregoryAlvim">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gregoryAlvim&show_icons=true&theme=react"/>
