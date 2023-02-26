@@ -1,7 +1,7 @@
 ## Profile
 
 <div>
-  ▪ Olá, eu sou o Grégory Alvim. Tudo certo? <br />
+  ▪ Olá, eu sou o Grégory Alvim. Tudo certo? <br /><br />
   
   ▪ Desenvolvedor Front-End com experiência em JavaScript, TypeScript e React 🔥 <br />
   ▪ Também podem contar comigo no desenvolvimento Back-End com Node e API RESTFUL 🔥 <br />
