@@ -3,8 +3,10 @@
 <div>
   ▪ Olá, eu sou o Grégory Alvim. Tudo certo? <br />
   
-  ▪ Me desenvolvendo atualmente com o Explorer, Full-Stack Web Developer Program fornecido pela Rocketseat. <br />
-  ▪ Me aprimorando cada vez mais em tecnologias como JavaScript, React e Node 💛🚀 <br />
+  ▪ Desenvolvedor Front-End com experiência em JavaScript, TypeScript e React 🔥
+  ▪ Também podem contar comigo no desenvolvimento Back-End com Node e API RESTFUL 🔥
+  ▪ Me aprimorando cada vez mais em tecnologias como JavaScript, TypeScript, React e Node 💛🚀
+
   ▪ Me acompanhe no Linkedin ⤸ <br />
   ✨【 https://www.linkedin.com/in/gregoryalvim/ 】✨
 </div>
