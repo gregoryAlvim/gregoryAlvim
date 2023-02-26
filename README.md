@@ -3,9 +3,9 @@
 <div>
   ▪ Olá, eu sou o Grégory Alvim. Tudo certo? <br />
   
-  ▪ Desenvolvedor Front-End com experiência em JavaScript, TypeScript e React 🔥
-  ▪ Também podem contar comigo no desenvolvimento Back-End com Node e API RESTFUL 🔥
-  ▪ Me aprimorando cada vez mais em tecnologias como JavaScript, TypeScript, React e Node 💛🚀
+  ▪ Desenvolvedor Front-End com experiência em JavaScript, TypeScript e React 🔥 <br />
+  ▪ Também podem contar comigo no desenvolvimento Back-End com Node e API RESTFUL 🔥 <br />
+  ▪ Me aprimorando cada vez mais em tecnologias como JavaScript, TypeScript, React e Node 💛🚀 <br />
 
   ▪ Me acompanhe no Linkedin ⤸ <br />
   ✨【 https://www.linkedin.com/in/gregoryalvim/ 】✨
