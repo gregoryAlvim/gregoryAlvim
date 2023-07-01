@@ -3,8 +3,8 @@
 <div>
   ▪ Olá, eu sou o Grégory Alvim. Tudo certo? <br /><br />
   
-  ▪ Desenvolvedor Front-End com experiência em JavaScript, TypeScript e React 🔥 <br />
-  ▪ Também podem contar comigo no desenvolvimento Back-End com Node e API RESTFUL 🔥 <br />
+  ▪ Desenvolvedor Front-End com experiência em JavaScript, TypeScript, React 🔥 <br />
+  ▪ Também pode contar comigo no desenvolvimento Back-End com Node, Nest, API REST, SOLID 🔥 <br />
   ▪ Me aprimorando cada vez mais em tecnologias como JavaScript, TypeScript, React e Node 💛🚀 <br />
 
   ▪ Me acompanhe no Linkedin ⤸ <br />
@@ -24,31 +24,47 @@
  
 <div style="display: inline_block">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img align="center" alt="Icon HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img align="center" alt="Icon HTML" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg""/>
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img align="center" alt="Icon CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img align="center" alt="Icon CSS" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg"/>
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img align="center" alt="Icon Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img align="center" alt="Icon Typescript" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"/>
+  </a>
   
   <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Icon React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
+    <img align="center" alt="Icon React" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg"/>
   </a>
   
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Icon Node" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
+    <img align="center" alt="Icon Node" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Icon Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
+    <img align="center" alt="Icon Git" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg"/> 
   </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img align="center" alt="Icon Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/> 
+    <img align="center" alt="Icon PostgreSQL" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg"/> 
+  </a> 
+
+  <a href="https://dev.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img align="center" alt="Icon MySql" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg"/> 
+  </a> 
+
+  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> 
+    <img align="center" alt="Icon NPM" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg"/> 
+  </a> 
+
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> 
+    <img align="center" alt="Icon Vite" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg"/> 
   </a> 
 </div>
   
