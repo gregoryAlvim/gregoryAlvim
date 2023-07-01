@@ -3,8 +3,8 @@
 <div>
   ▪ Olá, eu sou o Grégory Alvim. Tudo certo? <br /><br />
   
-  ▪ Desenvolvedor Front-End com experiência em JavaScript, TypeScript, React 🔥 <br />
-  ▪ Também pode contar comigo no desenvolvimento Back-End com Node, Nest, API REST, SOLID 🔥 <br />
+  ▪ Desenvolvedor Front-End com experiência em JavaScript, TypeScript e React 🔥 <br />
+  ▪ Também pode contar comigo no desenvolvimento Back-End com Node, Nest, API REST e SOLID 🔥 <br />
   ▪ Me aprimorando cada vez mais em tecnologias como JavaScript, TypeScript, React e Node 💛🚀 <br />
 
   ▪ Me acompanhe no Linkedin ⤸ <br />
